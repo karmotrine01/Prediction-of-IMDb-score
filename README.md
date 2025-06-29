@@ -1,0 +1,2 @@
+- `IMDb_prediction.ipynb`: Ana Jupyter çalışma dosyası.
+- `movies.csv`: Temel veri kümesi.
